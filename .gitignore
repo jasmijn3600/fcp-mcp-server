@@ -6,3 +6,4 @@ build/
 *.pyc
 .venv/
 .env
+*.tmp
