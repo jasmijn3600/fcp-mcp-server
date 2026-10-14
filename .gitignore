@@ -11,3 +11,4 @@ coverage/
 .cache/
 .pytest_cache/
 tmp/
+Desktop.ini
